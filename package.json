@@ -1,0 +1,15 @@
+{
+  "name": "web-crawling",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "brijith",
+  "license": "ISC",
+  "description": "test web crawling project",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "puppeteer": "^23.11.1"
+  }
+}
