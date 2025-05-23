@@ -1,6 +1,6 @@
 [
   {
-    "name": "CMF by Nothing Phone 2 Pro (White, 128 GB)",
+    "name": "CMF by Nothing Phone 2 Pro (Light Green, 128 GB)",
     "discountPrice": "₹18,999",
     "originalPrice": "₹22,999"
   },
@@ -10,19 +10,14 @@
     "originalPrice": "₹2,499"
   },
   {
-    "name": "REDMI A3X (Olive Green, 64 GB)",
-    "discountPrice": "₹5,999",
-    "originalPrice": "₹9,999"
+    "name": "Motorola G85 5G (Cobalt Blue, 128 GB)",
+    "discountPrice": "₹15,999",
+    "originalPrice": "₹20,999"
   },
   {
-    "name": "vivo T4x 5G (Pronto Purple, 128 GB)",
-    "discountPrice": "₹14,999",
-    "originalPrice": "₹19,499"
-  },
-  {
-    "name": "Motorola g45 5G (Pink Lavender, 128 GB)",
-    "discountPrice": "₹11,999",
-    "originalPrice": "₹14,999"
+    "name": "Motorola G85 5G (Olive Green, 128 GB)",
+    "discountPrice": "₹15,999",
+    "originalPrice": "₹20,999"
   },
   {
     "name": "SAMSUNG Galaxy F05 (Twilight Blue, 64 GB)",
@@ -30,24 +25,24 @@
     "originalPrice": "₹9,999"
   },
   {
-    "name": "SAMSUNG Galaxy F06 5G (Bahama Blue, 128 GB)",
-    "discountPrice": "₹9,699",
-    "originalPrice": "₹15,499"
+    "name": "vivo T3 Lite 5G (Majestic Black, 128 GB)",
+    "discountPrice": "₹10,499",
+    "originalPrice": "₹14,499"
   },
   {
-    "name": "REDMI 13 5G (Orchid Pink, 128 GB)",
-    "discountPrice": "₹12,499",
+    "name": "vivo T3 Lite 5G (Vibrant Green, 128 GB)",
+    "discountPrice": "₹10,499",
+    "originalPrice": "₹14,499"
+  },
+  {
+    "name": "vivo T4x 5G (Marine Blue, 128 GB)",
+    "discountPrice": "₹14,999",
+    "originalPrice": "₹19,499"
+  },
+  {
+    "name": "vivo T4x 5G (Marine Blue, 128 GB)",
+    "discountPrice": "₹13,999",
     "originalPrice": "₹17,999"
-  },
-  {
-    "name": "MOTOROLA g35 5G (Guava Red, 128 GB)",
-    "discountPrice": "₹9,999",
-    "originalPrice": "₹12,499"
-  },
-  {
-    "name": "MOTOROLA g05 (Forest Green, 64 GB)",
-    "discountPrice": "₹7,299",
-    "originalPrice": "₹9,999"
   },
   {
     "name": "vivo T4x 5G (Pronto Purple, 128 GB)",
@@ -55,44 +50,9 @@
     "originalPrice": "₹17,999"
   },
   {
-    "name": "POCO C71 (Desert Gold, 64 GB)",
-    "discountPrice": "₹6,499",
-    "originalPrice": "₹8,999"
-  },
-  {
-    "name": "vivo T4x 5G (Pronto Purple, 256 GB)",
-    "discountPrice": "₹16,999",
-    "originalPrice": "₹20,999"
-  },
-  {
-    "name": "SAMSUNG Galaxy F06 5G (Bahama Blue, 128 GB)",
-    "discountPrice": "₹8,499",
-    "originalPrice": "₹13,999"
-  },
-  {
-    "name": "MOTOROLA g35 5G (Leaf Green, 128 GB)",
-    "discountPrice": "₹9,999",
-    "originalPrice": "₹12,499"
-  },
-  {
-    "name": "Motorola g45 5G (Viva Magenta, 128 GB)",
-    "discountPrice": "₹11,999",
-    "originalPrice": "₹14,999"
-  },
-  {
-    "name": "Motorola Edge 50 Fusion (Hot Pink, 128 GB)",
-    "discountPrice": "₹18,999",
-    "originalPrice": "₹25,999"
-  },
-  {
-    "name": "POCO C75 5G (Silver Stardust, 64 GB)",
-    "discountPrice": "₹7,699",
-    "originalPrice": "₹10,999"
-  },
-  {
-    "name": "REDMI A3X (Ocean Green, 64 GB)",
-    "discountPrice": "₹5,999",
-    "originalPrice": "₹9,999"
+    "name": "MOTOROLA Edge 60 Fusion 5G (PANTONE Amazonite, 256 GB)",
+    "discountPrice": "₹24,999",
+    "originalPrice": "₹27,999"
   },
   {
     "name": "Motorola g45 5G (Brilliant Blue, 128 GB)",
@@ -100,23 +60,63 @@
     "originalPrice": "₹14,999"
   },
   {
-    "name": "REDMI A5 (Just Black, 64 GB)",
-    "discountPrice": "₹6,499",
-    "originalPrice": "₹8,999"
+    "name": "Motorola g45 5G (Pink Lavender, 128 GB)",
+    "discountPrice": "₹11,999",
+    "originalPrice": "₹14,999"
   },
   {
-    "name": "SAMSUNG Galaxy M35 5G (Moonlight Blue, 128 GB)",
-    "discountPrice": "₹13,619",
-    "originalPrice": "₹24,499"
-  },
-  {
-    "name": "MOTOROLA g35 5G (Midnight Black, 128 GB)",
-    "discountPrice": "₹9,999",
-    "originalPrice": "₹12,499"
-  },
-  {
-    "name": "vivo T4x 5G (Marine Blue, 128 GB)",
+    "name": "vivo T4x 5G (Pronto Purple, 128 GB)",
     "discountPrice": "₹14,999",
     "originalPrice": "₹19,499"
+  },
+  {
+    "name": "vivo T4x 5G (Marine Blue, 256 GB)",
+    "discountPrice": "₹16,999",
+    "originalPrice": "₹20,999"
+  },
+  {
+    "name": "vivo T4x 5G (Pronto Purple, 256 GB)",
+    "discountPrice": "₹16,999",
+    "originalPrice": "₹20,999"
+  },
+  {
+    "name": "OPPO K12x 5G with 45W SUPERVOOC Charger In-The-Box (Feather Pink, 128 GB)",
+    "discountPrice": "₹12,999",
+    "originalPrice": "₹16,999"
+  },
+  {
+    "name": "OPPO K12x 5G with 45W SUPERVOOC Charger In-The-Box (Breeze Blue, 128 GB)",
+    "discountPrice": "₹12,999",
+    "originalPrice": "₹16,999"
+  },
+  {
+    "name": "Motorola G85 5G (Olive Green, 256 GB)",
+    "discountPrice": "₹17,999",
+    "originalPrice": "₹22,999"
+  },
+  {
+    "name": "MOTOROLA Edge 60 Pro (Pantone Dazzling Blue, 256 GB)",
+    "discountPrice": "₹33,999",
+    "originalPrice": "₹40,999"
+  },
+  {
+    "name": "OPPO K12x 5G with 45W SUPERVOOC Charger In-The-Box (Midnight Violet, 128 GB)",
+    "discountPrice": "₹12,999",
+    "originalPrice": "₹16,999"
+  },
+  {
+    "name": "Motorola G85 5G (Urban Grey, 128 GB)",
+    "discountPrice": "₹15,999",
+    "originalPrice": "₹20,999"
+  },
+  {
+    "name": "Motorola g45 5G (Viva Magenta, 128 GB)",
+    "discountPrice": "₹11,999",
+    "originalPrice": "₹14,999"
+  },
+  {
+    "name": "POCO C75 5G (Aqua Bliss, 64 GB)",
+    "discountPrice": "₹7,699",
+    "originalPrice": "₹10,999"
   }
 ]
